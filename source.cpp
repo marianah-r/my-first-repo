@@ -1,5 +1,4 @@
 int main(){
-  printf("hello world");
-  printf("this is my %d program",1)
+  printf("Гринів Мар'яна Ігорівна");
 return 1;
 }
